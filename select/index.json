@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ストレンジレッド",
+  "base_artist": "Endorfin.",
+  "createdAt": "2026-03-31T06:14:11.766978Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ストレンジレッド",
+      "artist": "Endorfin.",
+      "has_synced": false,
+      "path": "select/pl_01_ストレンジレッド_Endorfin..txt"
+    }
+  ]
+}
